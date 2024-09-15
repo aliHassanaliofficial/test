@@ -1,0 +1,19 @@
+node_modules/
+npm-debug.log
+
+# Editor settings
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+
+# Build artifacts
+/build/
+/dist/
+
+# Environment variables
+.env
